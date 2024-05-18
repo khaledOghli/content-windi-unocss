@@ -12,8 +12,8 @@
 A personal website theme powered by [Nuxt Content](https://content.nuxtjs.org), [TailwindCSS](https://tailwindcss.com), [Iconify](https://iconify.design) and [Vue components](https://vuejs.org).
 
 - 📖&nbsp; [Demo & Docs](https://content-windi-unocss.nuxt.space)
-- 🕹&nbsp; [Play online](https://githubblitz.com/Atinux/content-windi-unocss/tree/main/.demo)
-- 👀&nbsp; [Demo video](https://twitter.com/Atinux/status/1578505586979012608)
+- 🕹&nbsp; [Play online](https://githubblitz.com/khaledOghli/content-windi-unocss/tree/main/.demo)
+- 👀&nbsp; [Demo video](https://twitter.com/khaledOghli/status/1578505586979012608)
 
 ## Features
 
@@ -54,11 +54,11 @@ Get started online on https://nuxt.studio/themes/content-windi-unocss
 [npm-downloads-src]: https://img.shields.io/npm/dt/content-windi-unocss.svg?style=flat&colorA=18181B&colorB=28CF8D
 [npm-downloads-href]: https://npmjs.com/package/content-windi-unocss
 
-[license-src]: https://img.shields.io/github/license/Atinux/content-windi-unocss.svg?style=flat&colorA=18181B&colorB=28CF8D
-[license-href]: https://github.com/Atinux/content-windi-unocss/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/khaledOghli/content-windi-unocss.svg?style=flat&colorA=18181B&colorB=28CF8D
+[license-href]: https://github.com/khaledOghli/content-windi-unocss/blob/main/LICENSE
 
 [use-template-src]: https://img.shields.io/badge/⚡️-Use%20this%20template-28CF8D?style=flat&colorA=18181B&colorB=28CF8D
-[use-template-href]: https://github.com/Atinux/content-windi-unocss-template/generate
+[use-template-href]: https://github.com/khaledOghli/content-windi-unocss-template/generate
 
 [nuxt-studio-src]: https://img.shields.io/badge/Open%20in%20Nuxt%20Studio-18181B?&logo=nuxt.js&logoColor=3BB5EC
 [nuxt-studio-href]: https://nuxt.studio/templates/content-windi-unocss
@@ -67,4 +67,4 @@ Get started online on https://nuxt.studio/themes/content-windi-unocss
 [nuxt-href]: https://nuxt.com
 
 [volta-src]: https://user-images.githubusercontent.com/904724/209143798-32345f6c-3cf8-4e06-9659-f4ace4a6acde.svg
-[volta-href]: https://volta.net/Atinux/content-windi-unocss?utm_source=readme_atinux_content_wind
+[volta-href]: https://volta.net/khaledOghli/content-windi-unocss?utm_source=readme_khaledOghli_content_wind

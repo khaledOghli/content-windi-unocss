@@ -9,7 +9,7 @@ export default defineNuxtSchema({
       /**
        * Twitter handle
        * 
-       * @example 'Atinux'
+       * @example 'khaledOghli'
        * @studioIcon simple-icons:twitter
        * */
       twitter: '',
