@@ -1,7 +1,7 @@
 {
   "name": "content-windi-unocss",
   "private": false,
-  "version": "2.0.1",
+  "version": "2.0.2",
   "main": "nuxt.config.ts",
   "license": "MIT",
   "scripts": {
