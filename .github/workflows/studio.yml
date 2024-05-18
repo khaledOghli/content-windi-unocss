@@ -66,8 +66,8 @@ jobs:
         run: echo 'modules[]=@nuxthq/studio' > .nuxtrc
 
       - name: Generate
-        run: ${{ steps.pkgman.outputs.package_manager }} nuxi generate
-
+        run: ${{ steps.pkgman.outputs.package_manager }} nuxi generate .demo
+        
       - name: Add .nojekyll file
         run: touch .output/public/.nojekyll
 
